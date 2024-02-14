@@ -1,0 +1,13 @@
+- links_category: 常用地址 / Common Url #分类名称
+  has_thumbnail: false #是否显示网站大图
+  list: 
+    - name: PH BLOG
+      link: http://ph88.ink/
+      description: phenix个人博客
+      avatar: https://evan.beee.top/avatar.png 
+
+## Template
+# - name:
+#   link:
+#   description:
+#   avatar:
