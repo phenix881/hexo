@@ -42,11 +42,14 @@ git push -f //强制推送
 同新增操作
 
 ### 删除文件夹
-```
+```bash
 git rm -r css
 git commit -m "delete"
 git push
 ```
+
+### 创建忽略文件
+项目根目录创建文件.gitignore，将需要忽略的目录写入，比如：node_modules/
 
 ## Hexo安装
 安装官方文档操作步骤即可，[https://hexo.io/zh-cn/docs/](https://hexo.io/zh-cn/docs/)
