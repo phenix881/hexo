@@ -35,6 +35,8 @@ git push -u origin main 将 main 分支 push 到 GitHub
 git push -u origin main
 git push -f //强制推送
 ```
+>如何在提交前，服务端产生了修改的部分，请先git pull，同步到本地,再进行提交
+
 ### 修改文件
 
 `cd /文件所在目录`
