@@ -1,5 +1,6 @@
 ---
 title: windows系统基础及软件使用
+date: 2024-02-01 9:41:05
 tags:
     - "windows"
     - "windows11"
