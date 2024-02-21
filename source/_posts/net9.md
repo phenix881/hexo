@@ -17,7 +17,9 @@ categories:
 - 官方下载地址:[Download .NET 9.0 ](https://dotnet.microsoft.com/en-us/download/dotnet/9.0)
 ## 升级步骤
 - 安装官方的sdk和runtime两个包
-- 升级本地的visual studio，我自己vs的版本是2022，17.8.7，要连续更新，直到10的版本
+- 升级本地的visual studio，我自己vs的版本是2022，17.8.7，要连续更新，只能升级到17.9.0
+- 所以还得重新下载10的安装工具，下载地址:[visualstudio17.10.0](https://learn.microsoft.com/en-us/visualstudio/releases/2022/release-notes-preview)
+- <img src="/images/cutimg1.png" width = "500" height = "200"/>
 - 修改项目的global.json如下
 ``` json
 {
