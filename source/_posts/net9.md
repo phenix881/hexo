@@ -8,7 +8,7 @@ categories:
     - "编程教程"
 ---
 
->来关注一下2024刚发现的.net9预览版有哪些好玩的新内容
+>来关注一下2024刚发行的.net9预览版有哪些好玩的新内容
 ## 版本信息
 版本号信息如下：
 - Full version
@@ -37,7 +37,7 @@ categories:
 
 在 System.Text.Json 中，.NET 9 具有用于序列化 JSON 的新选项和新的单一实例，可以更轻松地使用 Web 默认值进行序列化。
 
-### 缩进选项
+## 缩进选项
 
 JsonSerializerOptions包含一些新属性，可用于自定义写入 JSON 的缩进字符和缩进大小。
 
@@ -61,7 +61,7 @@ Console.WriteLine(json);
 ```
 
 
-### 默认 Web 选项
+## 默认 Web 选项
 
 如果要使用 ASP.NET Core 用于 Web 应用的默认选项进行序列化，请使用新的 JsonSerializerOptions.Web 单一实例。
 
