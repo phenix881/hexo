@@ -53,3 +53,29 @@ dotnet test | 	使用测试运行程序运行测试。
 - 运行应用程序：
 `dotnet exec myapp.dll`
 `dotnet myapp.dll`
+
+## 技巧分享
+linux系统运行后，进程常驻以及管理
+```bash
+ //start 启动
+ #/bin/bash
+ cd /usr/local/xsmd/net7/api/
+ nohup dotnet Phenix.WebApi.dll
+ 
+ //kill 关闭
+ #!/bin/bash  
+   
+# 要查找和关闭的进程名  
+process_name="dotnet"  
+  
+# 使用pgrep查找进程ID  
+pid=$(pgrep "$process_name")  
+  
+if [ -z "$pid" ]; then  
+    echo "没有找到进程: $process_name"  
+else  
+    echo "找到进程: $process_name，其进程ID为: $pid"  
+    # 关闭进程  
+    kill "$pid"  
+    echo "已关闭进程ID: $pid"  
+```
