@@ -7,7 +7,7 @@ tags:
     - "DOTNET"
 categories:
     - "编程教程"
-excerpt: "dotnet相关的命令操作知识
+excerpt: "dotnet相关的命令操作知识"
 ---
 
 ## 检查 SDK 版本
