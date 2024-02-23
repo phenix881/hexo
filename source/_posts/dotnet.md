@@ -60,7 +60,7 @@ linux系统运行后，进程常驻以及管理
  //start 启动
  #/bin/bash
  cd /usr/local/xsmd/net7/api/
- nohup dotnet Phenix.WebApi.dll
+ nohup dotnet xxxx.dll
  
  //kill 关闭
  #!/bin/bash  
