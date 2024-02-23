@@ -8,8 +8,8 @@ tags:
     - "CDN"
 categories:
     - "随记"
+excerpt: "记录本站建立的日志，供参考交流"
 ---
-记录本站建立的日志，供参考交流
 
 ## Git部分
 >[github官方文档](https://pages.github.com/)

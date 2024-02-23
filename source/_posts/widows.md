@@ -6,10 +6,9 @@ tags:
     - "windows11"
 categories:
     - "工具教程"
+excerpt: "windows系统基础及软件使用 知识干货的整理"
 ---
-windows系统基础及软件使用 知识干货的整理
 
-# windows
 ## 常用命令
 ### 端口查询  
 `netstat -ano |findstr "端口号"`

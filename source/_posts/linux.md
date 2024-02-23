@@ -6,10 +6,10 @@ tags:
     - "Ubuntu"
 categories:
     - "工具教程"
+excerpt: "Linux系统基础及软件使用 知识干货的整理"
 ---
-Linux系统基础及软件使用 知识干货的整理
 
-# Linux
+## Linux
 >除了知识干货的整理，会穿擦很多操作的感悟和总结  
 ## 常用命令
 - 更新

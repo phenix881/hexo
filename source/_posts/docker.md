@@ -5,10 +5,11 @@ tags:
     - "docker"
 categories:
     - "工具教程"
+excerpt: "docker相关的常用命令及各种镜像使用"
 ---
-docker相关的常用命令及各种镜像使用
 
-# docker 
+
+## docker 
 >建议使用linux系统安装docker，如果使用windows则需要bios开启虚拟化，cpu为64位，系统安装hyper-v的组件  
 - 网上资料解释：  
 Docker 底层的核心技术包括 Linux 上的名字空间（ Namespaces） 、 控制组（ Control groups） 、 Union 文
