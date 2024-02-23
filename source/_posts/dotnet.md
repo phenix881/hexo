@@ -9,7 +9,6 @@ categories:
     - "编程教程"
 ---
 
-# 基础命令
 ## 检查 SDK 版本
 `dotnet --list-sdks`
 ```
