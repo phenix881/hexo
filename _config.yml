@@ -5,8 +5,8 @@
 # Site
 title: PH Blog
 subtitle: ''
-description: ''
-keywords:
+description: '一个关于编程的技术博客'
+keywords:'c#,java,python,linux,ubuntu,windows,shell,bash,javascript'
 author: Phenix
 language: zh-CN
 timezone: ''
