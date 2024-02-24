@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: PH Blog
-subtitle: ''
+title: 'PH Blog'
+subtitle: '一个关于编程的技术博客'
 description: '一个关于编程的技术博客，学习编程，在赛博的世界，一起改变世界'
-keywords:'c#,java,python,linux,ubuntu,windows,shell,bash,javascript'
-author: Phenix
-language: zh-CN
+keywords: 'c#,java,python,linux,ubuntu,windows,shell,bash,javascript'
+author: 'Phenix'
+language: 'zh-CN'
 timezone: ''
 
 # URL
