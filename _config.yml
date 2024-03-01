@@ -4,8 +4,8 @@
 
 # Site
 title: 'PH Blog'
-subtitle: '一个关于编程的技术博客'
-description: '一个关于编程的技术博客，学习编程，在赛博的世界，一起改变世界'
+subtitle: '个人知识汇总库'
+description: '关于互联网，关于国学，关于各种，学习大千世界的各种有趣知识，在赛博的世界，一起改变世界'
 keywords: 'c#,java,python,linux,ubuntu,windows,shell,bash,javascript'
 author: 'Phenix'
 language: 'zh-CN'
