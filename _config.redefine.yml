@@ -200,9 +200,9 @@ navbar:
        submenus:
          Me: /about
          Blog: https://ph88.ink
-         Github: https://github.com/phenix881
-         Gitee: https://gitee.com/phenixwiki
-    #     Friends: /friends
+    #    Github: https://github.com/phenix881
+    #    Gitee: https://gitee.com/phenixwiki
+    #    Friends: /friends
     Links: 
        icon: fa-regular fa-link
        path: /showcase 
